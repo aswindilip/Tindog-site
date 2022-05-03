@@ -28,6 +28,7 @@ body{
 }
 .nav-link{
     font-size: 1.2rem;
+    font-family: "montserrat-black";
 }
 .title-image{
     width: 60%;
@@ -115,4 +116,18 @@ button{
     margin: auto;
     transform: rotate(0);
     }
+}
+.cta{
+    background-color: #ff4c68;
+    text-align: center;
+    color: #fff;
+   padding: 7% 15%;
+}
+
+footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+.footer-icon{
+    margin: 20px 10px;
 }

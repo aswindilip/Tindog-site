@@ -44,12 +44,11 @@ body{
   font-weight: bold;  
   
 }
-
-h3{
+h1,h2,h3,h4{
     font-family: "Monsterrat-Bold";
 }
+
 h2{
-    font-family: "Monsterrat-Bold";
     padding-bottom: 3%;
     size: 3rem;
 
@@ -92,8 +91,7 @@ button{
 }
 #press{
     background-color: #ff4c68;
-    padding-left: 7%;
-    padding-bottom: 10%;
+    padding: 7% 15%;
     text-align: center;
     
 }
